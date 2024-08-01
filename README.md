@@ -1,8 +1,8 @@
 # What terminal is Diego using
 
-I use [iTerm](https://iterm2.com/) as a replacement for the default Mac terminal, and install it via homebrew `brew install --cask iterm2`. 
-
 ![How my terminal looks](assets/terminal.png)
+
+I use [iTerm](https://iterm2.com/) as a replacement for the default Mac terminal, and install it via homebrew `brew install --cask iterm2`. 
 
 I configure it as such:
 
