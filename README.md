@@ -1,10 +1,10 @@
 # What terminal is Diego using
 
-| Main window | Multiple windows |
---- | ---
-![How my terminal looks](assets/terminal.png) | ![Multiple terminal windows](assets/terminal-multiple.png)
+I use [iTerm](https://iterm2.com/) as a replacement for the default Mac terminal, and install it via homebrew `brew install --cask iterm2`. 
 
-I use [iTerm](https://iterm2.com/) as a replacement for the default Mac terminal, and install it via homebrew `brew install --cask iterm2`. I configure it as such:
+![How my terminal looks](assets/terminal.png)
+
+I configure it as such:
 
 * `Minimal` UI: iTerm > Preferences > Appearance > General > Minimal
 * [Solarised dark theme, patched](https://raw.githubusercontent.com/mbadolato/iTerm2-Color-Schemes/master/schemes/Solarized%20Dark%20-%20Patched.itermcolors). Double click on the downloaded file, and then iTerm > Preferences > Profiles > Colors > Load presets > select the theme
@@ -15,7 +15,9 @@ I use [iTerm](https://iterm2.com/) as a replacement for the default Mac terminal
 
 ## Window profiles
 
-I use a mix of a main, central window where I do most things, and a few floating accessory ones dedicated to specific tasks (eg one for the iOS repo at the place I work at, one for running a docker image, and so on)
+I use a mix of a main, central window where I do most things, and a few floating accessory ones dedicated to specific tasks (eg one for the iOS repo at the place I work at, one for running a docker image, and so on).
+
+![Multiple terminal windows](assets/terminal-multiple.png)
 
 ### Main window
 
