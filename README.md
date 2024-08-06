@@ -13,6 +13,8 @@ I configure it as such:
 * [PowerLevel10k](https://github.com/romkatv/powerlevel10k?tab=readme-ov-file#oh-my-zsh) as a prompt theme: `git clone https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k`. After installing it, I swap the theme in `~/.zshrc` with `ZSH_THEME="powerlevel10k/powerlevel10k"`. When opening a new iTerm window the configuration wizard will start, but if it doesn't it can be triggered by `p10k configure`. I mostly use the standard/recommended config
 * I use a few zsh plugins (add them as a new line in `~/.zshrc` > `plugins=()`). Here's my current ones: `git`, `zsh-syntax-highlighting`, `zsh-autosuggestions`, `zsh-history-substring-search`, `z`, `sudo`, `macos`, `you-should-use`
 
+Bonus: I have a repo for [my main config files, like `zshrc` and the homebrew packages](https://github.com/diegopetrucci/what-configs-is-diego-using/).
+
 ## Window profiles
 
 I use a mix of a main, central window where I do most things, and a few floating accessory ones dedicated to specific tasks (eg one for the iOS repo at the place I work at, one for running a docker image, and so on).
